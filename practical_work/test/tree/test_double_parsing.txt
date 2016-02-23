@@ -1,0 +1,11 @@
+#ID1, Type1, s, 10
+*ID1, ID1, Type2, 10, 2
+*ID1, ID2, Type1, 20, 5
+*ID1, ID3, Type3, 30, 3
+#ID2, Type1, 60, 15
+*ID2, ID4, Type2, 30, 8
+*ID2, ID5, Type3, 30, 7
+#ID3, Type1, 80, 20
+*ID3, ID6, Type2, 30, 10
+*ID3, ID7, Type1, 30, 10
+*ID3, ID8, Type4, 20, 0
